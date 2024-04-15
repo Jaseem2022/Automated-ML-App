@@ -1,3 +1,5 @@
+Note : This is from a code along video posted by youtuber Nicholas Renotte
+
 This project uses streamlit which helps us to create a cool GUI which helps to create a web app for our automated ML project.
 The packages mostly used here is streamlit, pycaret, pandas.Note that pycaret should be below version 4 for proper functioning.
 Using this web app we can give file such as csv for regression and we can view the whole data and describe it.Then we can train it with many regression models.
